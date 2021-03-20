@@ -59,11 +59,11 @@ The Proof of Authority (PoA) algorithm is typically used for private blockchain 
     * Run the nodes in separate terminal windows with the commands:
         *  ./geth --datadir node1 --unlock "SEALER_ONE_ADDRESS" --mine --rpc --allow-insecure-unlock
         
-        ![](screenshots/nodes_1.PNG)
+![](screenshots/nodes_1.PNG)
         
         *  ./geth --datadir node2 --unlock "SEALER_TWO_ADDRESS" --mine --port 30304 --bootnodes "enode://SEALER_ONE_ENODE_ADDRESS@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock
         
-        ![](screenshots/nodes_2.PNG)
+ ![](screenshots/nodes_2.PNG)
         
  **Sealer one address:**  0xEB55E1a436D7ECcAC6a2f062ec290A0Bd4D76132
  **Sealer two address:**  0xc8126DC690a622B50946Ce6029bF3255E594e5Af
