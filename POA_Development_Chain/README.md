@@ -47,9 +47,11 @@ The Proof of Authority (PoA) algorithm is typically used for private blockchain 
 
 **I named my network ayesha; hence the command would be "./geth --datadir node1 init ayesha.json".**
         
-   ![](screenshots/nodes1.PNG)
+   
+   ![](screenshots/node1.PNG)
         
- ### **Starting mining blocks**
+
+### **Starting mining blocks**
  ---
 
 4. Now the nodes can be used to begin mining blocks.
