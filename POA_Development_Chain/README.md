@@ -44,10 +44,10 @@ The Proof of Authority (PoA) algorithm is typically used for private blockchain 
     * Using `geth`, initialize each node with the new `networkname.json`.
         * ./geth --datadir node1 init networkname.json
         * ./geth --datadir node2 init networkname.json
+
+**I named my network ayesha; hence the command would be "./geth --datadir node1 init ayesha.json".**
         
-        **I named my network ayesha; hence the command would be "./geth --datadir node1 init ayesha.json"
-        
-        ![](screenshots/nodes1.PNG)
+   ![](screenshots/nodes1.PNG)
         
  ### **Starting mining blocks**
  ---
