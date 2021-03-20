@@ -26,7 +26,34 @@ According to the Mike Lloy, CTO of ReadSeal, the gamechanger in security industr
 
 ## Why This May be Interesting
 ---
-
+SecureKey is one of the most significant blockchain based project carried out in Canada with some of the largest financial institutes and organisations contributing in bringing the idea to life. Their blockchain based software protects the privacy of their consumers in an ever-increasing cyber threats era. SecureKey makes it easier for their users to transfer personal or sensitive data to trusted networks along with full access to banking facilities exclusively provided by all the participating banks. One of the main advantages of the software is that users get the flexibility of consenting to the amount of personal information that they want to share with particular instituition based on the services that they are using. The following tackles the ongoing problem of oversharing and reduces the risk of data breaches.
+   
+   * **Verified.ME** uses a IBM blockchain platform which includes HyperLedger by the Linux Foundations, hence, allows users to share their personal information while quickly and securely verifying their identity online. This is highly regarded and a necessity in the banking industry which has been prone to increased cyber attacks, costing around *18.3 million annaully* per company.
+   
+   * The app is easy to use and understand for the users. Also, it is a cost-effective solution for companies in providing more personalised client services and onboarding.
+   
+   * SecureKey Blockchain System makes services and products readily available to users through Verified.Me authentication. This speeds up the operations which takes a lot of time in processing
+   
+   * The platform does not keep any kind of personal information such as emails, addresses and passwords nor do they share private credentials which garauntees 100% consumer safety.
 
 ## Things to Keep in Mind for a Case Study
 ---
+
+
+## Resources
+---
+
+* [About SecureKey](https://securekey.com/about-securekey/#mhmm-16813)
+
+* [Meet the Team](https://securekey.com/about-securekey/meet-team/)
+
+* [More 2021 cybersecurity predictions: ‘Every service without MFA will suffer a breach’](https://www.itworldcanada.com/article/more-2021-cybersecurity-predictions-every-service-without-mfa-will-suffer-a-breach/439430)
+
+* [SecureKey Technologies](https://101blockchains.com/companies/securekey-technologies/)
+
+* [SecureKey, a Toronto startup with big-name backers, aims to slay Internet security dragon](https://financialpost.com/news/fp-street/securekey-a-toronto-startup-with-big-name-backers-aims-to-slay-internet-security-dragon#:~:text=SecureKey%20was%20founded%20by%20Greg,earth%20in%20the%20dotcom%20crash.)
+
+* [Why Canadian banks are choosing the SecureKey blockchain system](https://coinrivet.com/canadian-banks-choosing-securekey-blockchain-system/#:~:text=The%20SecureKey%20blockchain%20system%20is,services%20faster%20without%20privacy%20risks.)
+
+
+
