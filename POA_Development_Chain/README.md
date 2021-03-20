@@ -65,10 +65,11 @@ The Proof of Authority (PoA) algorithm is typically used for private blockchain 
         
         ![](screenshots/nodes_2.PNG)
         
-        Sealer one address:  0xEB55E1a436D7ECcAC6a2f062ec290A0Bd4D76132
-        sealer two address:  0xc8126DC690a622B50946Ce6029bF3255E594e5Af
+ **Sealer one address:**  0xEB55E1a436D7ECcAC6a2f062ec290A0Bd4D76132
+ **Sealer two address:**  0xc8126DC690a622B50946Ce6029bF3255E594e5Af
         
-        P2P address:             enode://bb562fd015cec87f9800e98b342ebb2c05b57adf4a038b4385510053302888923cefbd62abc90ae3929349ce53d3c38d0e319f752eb29f7659b184c5328f0432@127.0.0.1:30303
+ **P2P address:**          enode://bb562fd015cec87f9800e98b342ebb2c05b57adf4a038b4385510053302888923cefbd62abc90ae3929349ce53d3c38d0e319f752eb29f7659b184c5328f0432@127.0.0.1:30303
+    
     * **NOTE:** Type your password and hit enter - even if you can't see it visually!
         
  ### **Joining with MyCrypto and transaction**
