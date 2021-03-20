@@ -40,6 +40,15 @@ SecureKey is one of the most significant blockchain based project carried out in
 ---
 
 
+* the importance of blockchain in making Verified.Me successful.
+
+* The 2021 prediction on the rising threat on cyber security faced by businesses and individuals 
+
+* The increasing use and dependency on the internet.
+
+* The global impact that SecureKey Technologies can possibly make when the trend continues as predicted.
+
+
 ## Resources
 ---
 
